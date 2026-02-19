@@ -1,0 +1,251 @@
+car_id,brand,model,year,engine_type,horsepower,transmission,price_usd,mileage_km,color,country,sale_date,dealership_rating,units_sold,revenue_usd
+1,Nissan,Rogue,2023,Gasoline,469,Manual,29190,78829,Silver,Canada,2025-04-04,4.1,6,175140
+2,Chevrolet,Malibu,2021,Gasoline,500,Manual,64966,8344,Black,Canada,2025-05-10,3.6,18,1169388
+3,Honda,Accord,2021,Diesel,158,Automatic,30896,36876,Black,Germany,2025-10-24,3.6,3,92688
+4,Audi,A3,2024,Electric,256,Automatic,45567,68760,White,South Korea,2025-08-19,4.2,8,364536
+5,Nissan,Altima,2021,Gasoline,325,Manual,31290,26639,Gray,Germany,2025-11-06,4.7,7,219030
+6,Ford,F-150,2024,Diesel,183,Automatic,48705,70923,Gray,South Korea,2025-01-28,4.2,4,194820
+7,BMW,X5,2020,Diesel,250,Manual,66973,62722,Blue,Mexico,2025-10-16,4.4,1,66973
+8,Kia,Rio,2023,Electric,344,Automatic,64333,58962,Blue,USA,2025-05-19,3.5,1,64333
+9,Honda,CR-V,2021,Hybrid,222,Automatic,23726,34337,Silver,Mexico,2025-10-20,3.9,3,71178
+10,Ford,Mustang,2022,Hybrid,258,Automatic,54159,57640,Gray,Mexico,2025-11-18,4.8,5,270795
+11,Tesla,Model Y,2023,Electric,243,Manual,50961,24850,Red,USA,2025-06-30,4.0,20,1019220
+12,Hyundai,Santa Fe,2024,Hybrid,257,Manual,51505,12401,Gray,USA,2025-05-04,4.0,3,154515
+13,Tesla,Model Y,2024,Gasoline,290,Automatic,18038,32092,Blue,Canada,2025-11-23,4.4,6,108228
+14,Toyota,RAV4,2020,Hybrid,200,Manual,49877,62257,Silver,Canada,2025-10-05,4.0,4,199508
+15,Kia,Sportage,2022,Diesel,247,Automatic,45776,71052,Red,USA,2025-03-11,3.7,14,640864
+16,Chevrolet,Equinox,2023,Diesel,287,Automatic,61198,15870,Red,Japan,2025-04-05,4.5,20,1223960
+17,Kia,Rio,2021,Hybrid,261,Automatic,25388,79292,Black,Canada,2025-07-15,5.0,14,355432
+18,BMW,X5,2023,Electric,352,Automatic,62375,13412,Black,Canada,2025-03-02,4.6,19,1185125
+19,Nissan,Sentra,2020,Diesel,312,Automatic,68771,29537,Red,Germany,2025-08-20,4.0,8,550168
+20,Nissan,Sentra,2022,Gasoline,258,Automatic,26652,7787,Black,Japan,2025-09-27,4.5,16,426432
+21,Audi,Q5,2023,Hybrid,256,Manual,48808,28915,Black,Germany,2025-08-17,3.9,6,292848
+22,BMW,X5,2020,Diesel,266,Automatic,62808,38966,Blue,Japan,2025-11-29,4.9,8,502464
+23,Tesla,Model S,2021,Diesel,250,Manual,49392,44104,White,South Korea,2025-04-14,4.5,16,790272
+24,Hyundai,Tucson,2022,Hybrid,279,Automatic,61563,15053,Silver,Japan,2025-04-30,3.8,20,1231260
+25,Audi,A4,2023,Diesel,299,Automatic,37505,26696,White,South Korea,2025-01-25,4.1,13,487565
+26,Honda,Civic,2024,Electric,229,Manual,38732,31757,Black,USA,2025-10-07,4.8,19,735908
+27,Kia,Rio,2022,Diesel,326,Manual,44689,62855,Black,Canada,2025-03-30,4.7,12,536268
+28,Nissan,Rogue,2022,Hybrid,155,Automatic,62598,24193,Gray,Japan,2025-07-08,4.3,9,563382
+29,Kia,Sorento,2020,Hybrid,186,Automatic,59728,40668,Silver,South Korea,2025-07-28,4.0,11,657008
+30,Audi,A4,2023,Hybrid,231,Automatic,36155,25401,Gray,USA,2025-04-24,4.6,15,542325
+31,Toyota,Corolla,2020,Hybrid,195,Manual,63867,4958,Blue,Japan,2025-07-24,4.3,19,1213473
+32,Ford,Explorer,2023,Electric,346,Manual,39301,53856,Red,Germany,2025-06-25,4.0,6,235806
+33,Kia,Sorento,2022,Hybrid,202,Manual,59593,52995,White,Mexico,2025-07-10,4.9,5,297965
+34,Toyota,RAV4,2022,Diesel,321,Automatic,65892,25055,White,USA,2025-03-05,3.5,13,856596
+35,Nissan,Altima,2024,Electric,321,Manual,42543,29848,White,Germany,2025-01-11,3.9,16,680688
+36,BMW,X3,2020,Electric,378,Automatic,29238,68139,Gray,Mexico,2025-09-10,3.9,19,555522
+37,Chevrolet,Malibu,2023,Hybrid,295,Manual,43175,77483,Black,USA,2025-10-21,4.0,4,172700
+38,Nissan,Rogue,2023,Gasoline,385,Manual,62175,61734,Gray,Japan,2025-10-27,3.6,17,1056975
+39,Nissan,Sentra,2024,Hybrid,221,Manual,44291,21791,Red,Germany,2025-05-24,3.6,1,44291
+40,Hyundai,Santa Fe,2023,Diesel,171,Manual,56891,67739,Gray,Mexico,2025-10-12,4.0,8,455128
+41,Toyota,Camry,2023,Diesel,340,Automatic,63784,5713,Red,Germany,2025-08-06,4.2,8,510272
+42,Kia,Sportage,2024,Electric,282,Automatic,20042,54182,Black,South Korea,2025-03-29,4.9,8,160336
+43,Ford,F-150,2023,Hybrid,152,Automatic,48548,67242,Black,Germany,2025-01-27,4.5,15,728220
+44,BMW,X3,2024,Diesel,263,Manual,65810,10096,Red,Germany,2025-12-11,4.7,3,197430
+45,Kia,Sportage,2021,Gasoline,361,Manual,60282,6397,Blue,Japan,2025-04-11,5.0,8,482256
+46,Ford,F-150,2020,Diesel,257,Automatic,58567,30547,Black,South Korea,2025-06-26,4.9,17,995639
+47,Audi,A4,2022,Diesel,251,Manual,24182,62280,Gray,Canada,2025-10-27,4.4,16,386912
+48,Kia,Sportage,2023,Electric,335,Manual,35545,79187,Blue,USA,2025-11-21,5.0,14,497630
+49,BMW,X5,2020,Gasoline,347,Automatic,41922,28575,Gray,USA,2025-10-01,4.9,15,628830
+50,Hyundai,Santa Fe,2024,Diesel,218,Manual,30573,7614,Red,South Korea,2025-12-06,4.5,19,580887
+51,Nissan,Sentra,2022,Hybrid,183,Manual,24615,32339,Black,Mexico,2025-08-26,4.5,5,123075
+52,Honda,Civic,2023,Gasoline,448,Manual,32258,39123,Red,Japan,2025-03-04,4.9,19,612902
+53,Nissan,Altima,2020,Electric,254,Automatic,20101,65401,Blue,Germany,2025-10-30,4.3,16,321616
+54,BMW,X5,2024,Electric,293,Manual,24802,61731,Black,Mexico,2025-03-24,3.7,20,496040
+55,Nissan,Sentra,2022,Hybrid,276,Automatic,25875,60669,Silver,Japan,2025-01-22,4.6,15,388125
+56,BMW,X5,2021,Electric,327,Automatic,49489,41843,Black,Mexico,2025-01-25,4.7,17,841313
+57,Toyota,Camry,2021,Gasoline,161,Automatic,53688,25381,Black,USA,2025-01-29,3.7,5,268440
+58,BMW,X3,2023,Gasoline,305,Manual,29250,61638,Silver,Canada,2025-06-06,4.8,7,204750
+59,Ford,Mustang,2023,Hybrid,153,Automatic,52830,72608,Red,Germany,2025-10-02,4.1,5,264150
+60,Kia,Sorento,2022,Electric,304,Automatic,36823,51534,Black,South Korea,2025-05-15,3.9,5,184115
+61,Chevrolet,Malibu,2021,Gasoline,461,Manual,20271,50752,Blue,Mexico,2025-08-26,3.9,8,162168
+62,Toyota,Corolla,2020,Electric,332,Automatic,52386,70421,Red,USA,2025-01-23,4.2,8,419088
+63,Tesla,Model S,2023,Electric,203,Automatic,34853,5907,Silver,Germany,2025-12-20,4.0,4,139412
+64,Kia,Rio,2022,Electric,310,Automatic,19724,15436,Black,Canada,2025-01-23,5.0,13,256412
+65,Kia,Sorento,2021,Hybrid,211,Manual,51829,26947,Blue,Germany,2025-03-21,4.9,1,51829
+66,Kia,Sportage,2022,Electric,351,Automatic,19201,75643,Silver,Mexico,2025-10-11,4.7,8,153608
+67,Toyota,Corolla,2020,Diesel,229,Automatic,55061,24390,White,South Korea,2025-04-28,3.6,13,715793
+68,Kia,Sportage,2024,Diesel,316,Manual,27898,12150,Red,Japan,2025-05-03,4.5,17,474266
+69,Tesla,Model S,2023,Diesel,168,Manual,52699,16464,Silver,Mexico,2025-03-13,4.7,2,105398
+70,Tesla,Model 3,2024,Gasoline,151,Manual,62662,70196,Gray,Japan,2025-03-20,3.6,15,939930
+71,BMW,X5,2021,Diesel,243,Automatic,54294,79885,Silver,Canada,2025-09-16,4.1,14,760116
+72,Kia,Sorento,2024,Hybrid,274,Automatic,43300,17571,Black,Germany,2025-05-13,4.9,11,476300
+73,Nissan,Rogue,2022,Hybrid,172,Manual,33212,36452,White,Japan,2025-05-15,4.0,13,431756
+74,Honda,Civic,2024,Gasoline,464,Manual,50295,66138,Blue,Germany,2025-08-21,4.7,16,804720
+75,Ford,F-150,2024,Gasoline,445,Automatic,18735,65665,Black,Germany,2025-11-30,4.1,2,37470
+76,BMW,X5,2021,Gasoline,337,Automatic,23807,48506,Blue,Mexico,2025-11-17,3.7,4,95228
+77,BMW,X5,2024,Diesel,264,Manual,28296,70228,Silver,Canada,2025-08-17,4.7,4,113184
+78,Hyundai,Elantra,2020,Diesel,230,Automatic,24620,56677,Gray,Canada,2025-01-16,4.1,7,172340
+79,Nissan,Altima,2022,Electric,294,Automatic,52672,24542,Blue,USA,2025-06-09,3.8,17,895424
+80,Honda,Civic,2021,Electric,366,Automatic,19285,9771,Gray,Canada,2025-01-12,3.6,17,327845
+81,Chevrolet,Equinox,2023,Diesel,241,Automatic,68671,20088,Gray,Germany,2025-07-23,4.6,7,480697
+82,Hyundai,Elantra,2022,Diesel,346,Manual,27501,61037,Blue,Germany,2025-03-28,3.7,7,192507
+83,Honda,CR-V,2024,Electric,216,Automatic,47965,4056,White,Mexico,2025-05-30,4.9,18,863370
+84,Toyota,RAV4,2023,Gasoline,224,Manual,54060,23097,Red,Mexico,2025-03-07,3.7,17,919020
+85,Chevrolet,Equinox,2020,Hybrid,293,Automatic,62225,20447,Black,Japan,2025-02-18,4.2,3,186675
+86,Chevrolet,Equinox,2020,Gasoline,176,Automatic,33303,70678,White,Japan,2025-05-13,3.5,14,466242
+87,Tesla,Model S,2022,Diesel,154,Automatic,64915,17063,Gray,Japan,2025-06-03,4.5,17,1103555
+88,BMW,X3,2024,Electric,381,Automatic,53006,69130,White,Mexico,2025-12-15,4.1,5,265030
+89,Nissan,Altima,2023,Diesel,156,Manual,52704,79687,White,South Korea,2025-09-12,4.2,19,1001376
+90,Chevrolet,Malibu,2022,Gasoline,373,Automatic,31442,64392,Red,South Korea,2025-03-11,3.9,4,125768
+91,Nissan,Sentra,2020,Electric,276,Manual,58529,15947,Gray,Germany,2025-05-10,4.5,10,585290
+92,Hyundai,Elantra,2024,Hybrid,152,Automatic,48684,79517,Silver,Canada,2025-09-13,4.2,17,827628
+93,Kia,Rio,2020,Diesel,258,Automatic,57007,58726,White,Germany,2025-09-02,4.5,13,741091
+94,Tesla,Model Y,2021,Hybrid,222,Manual,66834,40660,Blue,Canada,2025-09-15,4.1,9,601506
+95,Ford,Explorer,2022,Hybrid,245,Manual,64906,69585,Silver,Canada,2025-06-21,3.6,14,908684
+96,Hyundai,Elantra,2023,Diesel,197,Automatic,63236,54589,Blue,South Korea,2025-11-07,4.3,8,505888
+97,Kia,Sportage,2020,Electric,275,Manual,47118,44016,Blue,USA,2025-08-04,4.4,5,235590
+98,Chevrolet,Silverado,2020,Gasoline,378,Automatic,33905,1995,Red,Japan,2025-10-23,3.8,3,101715
+99,Audi,A3,2023,Gasoline,147,Automatic,37510,34686,Gray,South Korea,2025-07-04,4.9,11,412610
+100,Hyundai,Tucson,2024,Diesel,252,Manual,46818,76231,Blue,USA,2025-04-26,4.1,9,421362
+101,Audi,A3,2021,Hybrid,283,Manual,58781,78493,Gray,Germany,2025-09-08,3.6,4,235124
+102,Hyundai,Tucson,2020,Hybrid,218,Automatic,32549,52528,Blue,Canada,2025-03-15,4.3,4,130196
+103,Hyundai,Tucson,2020,Electric,303,Manual,64442,49817,Gray,Canada,2025-05-12,4.9,11,708862
+104,Toyota,Camry,2023,Hybrid,201,Automatic,18610,22771,Red,Japan,2025-07-24,4.9,20,372200
+105,Toyota,Camry,2022,Hybrid,276,Automatic,25124,70911,Blue,USA,2025-08-15,3.9,7,175868
+106,Toyota,RAV4,2024,Diesel,192,Automatic,47543,32174,Silver,Canada,2025-08-24,4.5,20,950860
+107,Ford,Explorer,2021,Gasoline,268,Automatic,21200,1778,Red,USA,2025-08-28,4.3,5,106000
+108,Ford,Explorer,2020,Electric,269,Automatic,65997,34581,Silver,South Korea,2025-05-08,3.8,1,65997
+109,Hyundai,Santa Fe,2020,Gasoline,500,Manual,44561,10423,Red,South Korea,2025-06-26,4.9,11,490171
+110,BMW,X5,2021,Diesel,328,Manual,60767,195,White,South Korea,2025-10-07,4.4,18,1093806
+111,Honda,CR-V,2020,Gasoline,255,Automatic,48295,55905,Black,South Korea,2025-02-25,4.2,13,627835
+112,Tesla,Model 3,2020,Gasoline,246,Automatic,39000,44829,Black,Canada,2025-07-16,4.2,2,78000
+113,Audi,Q5,2020,Diesel,349,Manual,28089,58795,Red,Germany,2025-05-10,4.8,7,196623
+114,Chevrolet,Malibu,2024,Diesel,349,Automatic,54395,70147,Blue,South Korea,2025-09-14,3.9,1,54395
+115,Kia,Rio,2023,Gasoline,289,Automatic,69721,5338,Black,Japan,2025-10-16,4.2,5,348605
+116,Hyundai,Santa Fe,2023,Electric,318,Automatic,67369,35949,White,Canada,2025-09-12,4.3,9,606321
+117,Nissan,Sentra,2020,Gasoline,215,Automatic,41992,40268,Gray,Canada,2025-11-05,3.5,19,797848
+118,Toyota,Camry,2022,Gasoline,287,Manual,53337,19244,Red,Germany,2025-03-11,4.1,5,266685
+119,Chevrolet,Equinox,2020,Electric,244,Manual,47081,5286,Red,Mexico,2025-02-23,4.8,10,470810
+120,Tesla,Model S,2021,Gasoline,484,Manual,60174,14950,Gray,Japan,2025-02-21,3.9,10,601740
+121,Nissan,Sentra,2023,Diesel,226,Automatic,51830,66229,Gray,Mexico,2025-12-28,3.7,1,51830
+122,Chevrolet,Equinox,2021,Diesel,175,Manual,35411,30278,White,Germany,2025-04-03,4.9,14,495754
+123,Nissan,Sentra,2020,Hybrid,267,Automatic,69693,35096,Silver,USA,2025-02-14,4.8,1,69693
+124,Nissan,Altima,2023,Diesel,245,Automatic,59691,49392,Black,Mexico,2025-11-01,3.6,18,1074438
+125,Toyota,RAV4,2020,Diesel,304,Manual,27584,65249,Gray,South Korea,2025-06-07,4.2,14,386176
+126,Kia,Sorento,2022,Electric,373,Manual,18580,78904,Silver,South Korea,2025-09-08,4.3,13,241540
+127,Kia,Sorento,2020,Gasoline,469,Automatic,68978,21188,Gray,Mexico,2025-05-28,4.4,9,620802
+128,Tesla,Model 3,2023,Gasoline,156,Manual,22735,30684,Blue,USA,2025-06-07,3.6,12,272820
+129,Audi,Q5,2024,Diesel,304,Manual,62783,25281,Red,South Korea,2025-09-24,4.6,12,753396
+130,Honda,Accord,2022,Gasoline,383,Automatic,45150,23603,Black,Japan,2025-04-17,4.6,4,180600
+131,BMW,320i,2020,Hybrid,293,Automatic,62633,17971,Gray,Canada,2025-11-04,4.7,14,876862
+132,Chevrolet,Silverado,2023,Gasoline,375,Manual,32324,52266,Gray,Canada,2025-09-12,4.7,11,355564
+133,Audi,Q5,2024,Hybrid,217,Manual,46045,70384,Gray,Canada,2025-08-22,4.8,8,368360
+134,Hyundai,Santa Fe,2021,Hybrid,274,Automatic,57443,36203,Gray,Japan,2025-02-14,3.9,9,516987
+135,Chevrolet,Silverado,2020,Diesel,262,Automatic,35504,55863,Red,Germany,2025-01-07,4.8,6,213024
+136,BMW,320i,2024,Hybrid,269,Automatic,67028,8490,Black,Germany,2025-04-04,3.8,9,603252
+137,Toyota,Camry,2020,Hybrid,271,Automatic,57437,44016,Black,South Korea,2025-06-11,4.5,20,1148740
+138,Ford,F-150,2024,Diesel,187,Automatic,64100,709,Gray,Canada,2025-04-05,4.4,11,705100
+139,Audi,A4,2021,Electric,334,Automatic,32665,24874,Gray,Japan,2025-06-04,4.1,6,195990
+140,Audi,A3,2022,Gasoline,330,Automatic,38802,73367,Gray,USA,2025-06-07,4.6,5,194010
+141,Toyota,RAV4,2021,Diesel,332,Manual,68857,24204,Silver,Germany,2025-04-18,4.1,6,413142
+142,Nissan,Altima,2021,Diesel,292,Manual,51840,12081,Gray,Germany,2025-07-13,4.2,17,881280
+143,Audi,A3,2022,Gasoline,251,Manual,63732,43256,Red,Mexico,2025-07-11,4.3,15,955980
+144,Kia,Sorento,2023,Electric,261,Manual,46225,35136,Red,Japan,2025-11-19,4.7,20,924500
+145,Kia,Rio,2024,Electric,326,Manual,33980,55799,Gray,Japan,2025-06-19,4.2,13,441740
+146,Hyundai,Santa Fe,2022,Diesel,268,Manual,35266,11238,Red,Japan,2025-12-11,4.5,16,564256
+147,Toyota,Camry,2020,Diesel,281,Manual,50005,23410,Blue,Canada,2025-10-02,4.3,2,100010
+148,Hyundai,Elantra,2023,Gasoline,312,Automatic,20077,11298,Gray,Canada,2025-05-14,4.8,18,361386
+149,Chevrolet,Equinox,2023,Diesel,193,Automatic,50268,68536,Black,Mexico,2025-10-24,3.9,6,301608
+150,Tesla,Model Y,2024,Electric,239,Manual,53451,34538,Silver,Canada,2025-10-08,4.8,1,53451
+151,Toyota,Corolla,2020,Electric,375,Manual,54806,62969,Blue,USA,2025-01-08,3.5,6,328836
+152,Audi,A4,2022,Gasoline,410,Automatic,20103,39891,Gray,Canada,2025-09-18,3.8,14,281442
+153,Toyota,Camry,2024,Hybrid,300,Manual,18877,32434,Silver,South Korea,2025-02-28,4.3,12,226524
+154,Kia,Rio,2024,Hybrid,201,Manual,63877,10868,Blue,South Korea,2025-01-31,4.6,14,894278
+155,Ford,F-150,2020,Gasoline,261,Automatic,53757,3102,Red,Germany,2025-11-18,4.6,13,698841
+156,Chevrolet,Equinox,2020,Hybrid,256,Automatic,31574,11699,Gray,Japan,2025-06-15,4.3,5,157870
+157,Honda,Accord,2021,Hybrid,299,Automatic,62484,51880,White,South Korea,2025-06-27,4.3,1,62484
+158,Chevrolet,Equinox,2024,Electric,353,Automatic,19494,43774,Red,Canada,2025-09-30,4.8,17,331398
+159,Ford,Explorer,2020,Gasoline,357,Manual,21966,17575,Silver,Mexico,2025-03-20,4.3,19,417354
+160,Audi,A3,2023,Electric,340,Automatic,44731,55811,Gray,Japan,2025-01-17,4.4,13,581503
+161,Toyota,RAV4,2024,Diesel,222,Manual,46115,24111,Black,Japan,2025-01-19,3.9,3,138345
+162,Chevrolet,Malibu,2021,Gasoline,332,Automatic,65203,1102,White,Mexico,2025-03-27,4.6,11,717233
+163,Chevrolet,Silverado,2021,Gasoline,186,Manual,38786,36677,Gray,Mexico,2025-03-21,4.9,20,775720
+164,Ford,F-150,2022,Gasoline,168,Manual,44617,22165,Black,Mexico,2025-04-13,3.6,12,535404
+165,Audi,A3,2023,Electric,242,Automatic,20575,44335,Black,Japan,2025-03-20,3.7,15,308625
+166,Audi,Q5,2023,Diesel,307,Manual,35219,56635,Red,USA,2025-11-10,4.3,10,352190
+167,Kia,Rio,2024,Diesel,177,Automatic,45772,59836,Gray,South Korea,2025-10-03,3.7,20,915440
+168,Hyundai,Elantra,2024,Gasoline,289,Automatic,57230,43499,Silver,Mexico,2025-03-26,3.7,17,972910
+169,Nissan,Altima,2023,Diesel,305,Automatic,66827,60472,Black,Japan,2025-10-28,5.0,20,1336540
+170,Audi,A4,2020,Gasoline,424,Automatic,42668,28841,Blue,Japan,2025-05-02,4.7,1,42668
+171,Chevrolet,Malibu,2020,Hybrid,177,Manual,69817,64759,White,Mexico,2025-12-14,4.4,18,1256706
+172,BMW,320i,2023,Electric,386,Manual,29471,65515,Red,South Korea,2025-02-05,4.7,18,530478
+173,BMW,320i,2024,Hybrid,298,Automatic,64514,74038,Gray,USA,2025-12-05,3.7,4,258056
+174,Hyundai,Santa Fe,2024,Electric,343,Manual,66904,27339,Silver,USA,2025-02-23,4.3,14,936656
+175,Nissan,Rogue,2021,Diesel,151,Automatic,50569,68264,Blue,Canada,2025-06-28,4.5,12,606828
+176,BMW,X3,2024,Hybrid,272,Automatic,64600,66327,Black,Japan,2025-09-15,4.5,8,516800
+177,Honda,CR-V,2022,Gasoline,362,Automatic,49382,36167,Black,Mexico,2025-12-24,3.7,8,395056
+178,Toyota,RAV4,2023,Gasoline,233,Manual,62404,62926,Black,South Korea,2025-01-14,3.8,8,499232
+179,Ford,F-150,2023,Electric,326,Automatic,50916,55172,Black,USA,2025-12-15,4.5,1,50916
+180,Tesla,Model S,2024,Electric,344,Manual,27003,36223,Silver,Japan,2025-11-17,3.7,17,459051
+181,Hyundai,Santa Fe,2024,Electric,357,Automatic,41818,71954,Gray,USA,2025-08-17,4.9,1,41818
+182,Chevrolet,Equinox,2020,Hybrid,224,Automatic,64125,19493,Black,Japan,2025-06-27,4.2,11,705375
+183,Ford,Explorer,2023,Hybrid,205,Automatic,24432,78078,Red,USA,2025-05-01,4.3,14,342048
+184,Honda,CR-V,2023,Gasoline,316,Automatic,59571,41024,Gray,USA,2025-07-11,4.3,2,119142
+185,Honda,CR-V,2021,Gasoline,193,Manual,53312,38990,Red,Germany,2025-01-02,3.7,6,319872
+186,Toyota,Camry,2023,Gasoline,199,Manual,58684,11767,White,Japan,2025-08-22,4.3,13,762892
+187,Hyundai,Tucson,2024,Gasoline,237,Manual,39896,22109,White,South Korea,2025-10-20,3.9,3,119688
+188,Honda,Accord,2023,Electric,280,Automatic,54264,72625,Black,Canada,2025-05-09,3.5,6,325584
+189,Audi,Q5,2023,Gasoline,143,Automatic,54457,63849,Blue,Germany,2025-04-28,4.0,18,980226
+190,Hyundai,Santa Fe,2024,Diesel,337,Automatic,30965,41339,White,Japan,2025-10-03,4.9,17,526405
+191,Ford,F-150,2024,Electric,285,Manual,69308,75414,Black,South Korea,2025-08-21,3.7,19,1316852
+192,Kia,Rio,2021,Diesel,269,Manual,25970,32299,Red,Mexico,2025-07-01,4.9,7,181790
+193,Chevrolet,Equinox,2024,Electric,398,Manual,30054,77651,Gray,Canada,2025-02-25,4.4,11,330594
+194,Audi,A4,2022,Diesel,329,Manual,63936,56199,Blue,Germany,2025-08-14,5.0,2,127872
+195,BMW,X5,2020,Gasoline,450,Automatic,22237,20237,Blue,Japan,2025-06-04,4.5,14,311318
+196,Honda,CR-V,2022,Electric,341,Manual,28988,32538,Red,Mexico,2025-02-01,4.9,3,86964
+197,Audi,A4,2022,Diesel,307,Automatic,49288,18856,Blue,Canada,2025-06-07,4.1,6,295728
+198,Nissan,Sentra,2020,Electric,255,Automatic,27522,69929,Red,Japan,2025-12-22,3.8,16,440352
+199,Hyundai,Elantra,2023,Electric,286,Manual,30948,77715,Gray,Mexico,2025-03-06,3.6,1,30948
+200,Nissan,Altima,2022,Electric,332,Automatic,60013,64391,Gray,South Korea,2025-08-02,5.0,17,1020221
+201,Chevrolet,Malibu,2023,Electric,265,Manual,38496,15977,Gray,Mexico,2025-12-15,3.7,7,269472
+202,Ford,Mustang,2023,Hybrid,197,Manual,69728,78888,Black,Mexico,2025-02-07,4.0,19,1324832
+203,Ford,Mustang,2020,Hybrid,275,Manual,48982,9473,Silver,Germany,2025-05-06,4.7,19,930658
+204,Ford,F-150,2022,Gasoline,322,Automatic,58290,59889,Black,South Korea,2025-09-19,4.8,4,233160
+205,Tesla,Model 3,2021,Diesel,269,Automatic,60379,45711,White,Canada,2025-05-05,3.6,8,483032
+206,Tesla,Model S,2020,Diesel,310,Automatic,69449,11791,Black,Canada,2025-01-28,3.9,3,208347
+207,Audi,Q5,2022,Hybrid,290,Manual,60533,64521,Blue,South Korea,2025-04-10,3.9,18,1089594
+208,Kia,Sportage,2020,Gasoline,324,Manual,56450,59803,Gray,Germany,2025-01-10,4.4,17,959650
+209,Ford,Explorer,2020,Electric,332,Automatic,48101,34257,White,Mexico,2025-11-02,4.7,13,625313
+210,Audi,A4,2020,Electric,345,Automatic,46145,44393,Red,Canada,2025-01-25,4.2,20,922900
+211,Hyundai,Santa Fe,2022,Gasoline,387,Manual,41259,36713,Gray,Germany,2025-01-18,4.5,20,825180
+212,BMW,320i,2023,Gasoline,271,Manual,34788,69797,Red,Canada,2025-02-18,3.7,19,660972
+213,Hyundai,Santa Fe,2022,Gasoline,198,Automatic,23621,45885,Silver,Canada,2025-12-20,4.2,3,70863
+214,BMW,320i,2024,Diesel,349,Manual,40705,17752,Gray,Canada,2025-09-14,3.6,1,40705
+215,Chevrolet,Equinox,2024,Electric,244,Manual,62667,41902,Black,Germany,2025-10-01,3.7,4,250668
+216,BMW,X5,2023,Hybrid,286,Automatic,45823,34658,Gray,Mexico,2025-03-06,3.9,16,733168
+217,BMW,X5,2023,Electric,216,Manual,27784,50059,White,South Korea,2025-03-08,4.7,2,55568
+218,Nissan,Sentra,2022,Hybrid,270,Manual,46339,35484,White,Mexico,2025-03-19,4.9,5,231695
+219,BMW,X5,2021,Electric,271,Manual,20463,38902,White,Japan,2025-05-20,4.0,8,163704
+220,Honda,CR-V,2020,Electric,318,Automatic,66865,43670,Gray,USA,2025-01-23,4.6,8,534920
+221,Nissan,Rogue,2022,Electric,275,Manual,54295,61897,White,USA,2025-01-24,4.9,5,271475
+222,BMW,X5,2021,Gasoline,322,Automatic,53794,53366,White,Mexico,2025-11-23,4.6,3,161382
+223,BMW,X3,2021,Hybrid,151,Manual,67037,68343,Black,South Korea,2025-08-01,4.9,8,536296
+224,Audi,A4,2020,Hybrid,157,Manual,59781,41043,Black,Canada,2025-04-08,4.6,3,179343
+225,Toyota,Camry,2022,Hybrid,178,Automatic,34481,65006,White,Mexico,2025-02-08,3.9,17,586177
+226,Chevrolet,Equinox,2023,Diesel,161,Manual,31121,46928,Blue,USA,2025-05-18,4.2,2,62242
+227,Hyundai,Santa Fe,2023,Hybrid,216,Manual,65064,42241,Silver,Japan,2025-03-04,4.7,13,845832
+228,Honda,Accord,2022,Electric,344,Manual,33288,33763,Blue,Canada,2025-10-30,4.5,12,399456
+229,Kia,Sportage,2024,Hybrid,210,Automatic,68349,74376,Silver,Germany,2025-10-18,4.7,13,888537
+230,Chevrolet,Silverado,2022,Gasoline,416,Manual,31662,32788,Gray,Germany,2025-08-30,4.1,2,63324
+231,BMW,X3,2020,Electric,279,Manual,42780,69015,White,Canada,2025-12-08,4.7,17,727260
+232,Ford,Mustang,2022,Gasoline,147,Automatic,51646,32938,Silver,Japan,2025-02-24,4.8,17,877982
+233,Toyota,Corolla,2022,Diesel,285,Automatic,56460,58831,Silver,Canada,2025-07-28,4.3,12,677520
+234,Tesla,Model Y,2021,Gasoline,344,Automatic,67901,41972,Blue,Japan,2025-01-28,4.2,10,679010
+235,Kia,Rio,2022,Hybrid,244,Automatic,41478,52602,Black,Japan,2025-02-20,4.6,17,705126
+236,Ford,F-150,2022,Gasoline,278,Automatic,22760,25795,Silver,Mexico,2025-07-27,4.6,13,295880
+237,Nissan,Sentra,2023,Electric,213,Manual,66005,79286,Gray,Mexico,2025-02-04,3.9,18,1188090
+238,Tesla,Model Y,2022,Gasoline,238,Automatic,65368,14800,Gray,USA,2025-11-10,4.4,19,1241992
+239,Ford,Mustang,2020,Diesel,288,Manual,42923,57664,White,Germany,2025-12-05,4.0,19,815537
+240,Hyundai,Tucson,2023,Gasoline,242,Automatic,33744,36753,Silver,South Korea,2025-07-26,3.6,2,67488
+241,Kia,Sorento,2021,Electric,385,Manual,66711,5348,Blue,Germany,2025-11-18,3.8,17,1134087
+242,Tesla,Model 3,2020,Electric,324,Automatic,65920,44278,White,Germany,2025-06-17,3.5,19,1252480
+243,Audi,Q5,2021,Diesel,255,Automatic,64111,68775,Silver,USA,2025-06-13,3.7,3,192333
+244,Nissan,Sentra,2022,Electric,225,Manual,68631,36654,Silver,South Korea,2025-05-13,3.7,7,480417
+245,Hyundai,Tucson,2023,Electric,295,Manual,66622,75920,Black,USA,2025-04-16,3.6,13,866086
+246,Chevrolet,Equinox,2023,Electric,320,Manual,59086,19770,Gray,USA,2025-04-26,4.3,10,590860
+247,Chevrolet,Equinox,2021,Diesel,170,Automatic,47985,46597,Black,South Korea,2025-08-07,4.4,7,335895
+248,Tesla,Model Y,2022,Diesel,317,Manual,47420,15253,Black,USA,2025-10-11,4.5,4,189680
+249,Chevrolet,Equinox,2022,Hybrid,173,Manual,50480,76665,Black,USA,2025-04-14,4.1,14,706720
+250,Hyundai,Tucson,2024,Gasoline,272,Manual,18956,48872,Silver,USA,2025-06-18,4.0,7,132692
