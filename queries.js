@@ -21,11 +21,11 @@ db.cars.aggregate([
 ])
 
 // Agregación para Relación entre precio y tipo de motor
-[
+db.cars.aggregate([
   {
     $group: {
       _id: "$engine_type",
       avg_price: { $avg: "$price_usd" }
     }
   }
-]
+])
